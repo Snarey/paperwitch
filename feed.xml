@@ -3,81 +3,32 @@
     <title>Happy Birthday Ivonne</title>
     <link href="https://happybirthdayivonne.com/feed.xml" rel="self" />
     <link href="https://happybirthdayivonne.com" />
-    <updated>2026-11-14T21:32:29+00:00</updated>
+    <updated>2026-11-18T00:00:00+00:00</updated>
     <author>
         <name>Finbarre Snarey</name>
     </author>
     <id>https://happybirthdayivonne.com</id>
 
     <entry>
-        <title>Parakeet Dreams</title>
+        <title>Present</title>
         <author>
             <name>Finbarre Snarey</name>
         </author>
-        <link href="https://happybirthdayivonne.com/parakeet-dreams.html"/>
-        <id>https://happybirthdayivonne.com/parakeet-dreams.html</id>
-        <media:content url="https://happybirthdayivonne.com/media/posts/6/20231121_154339.jpg" medium="image" />
+        <link href="https://happybirthdayivonne.com/test-post-2.html"/>
+        <id>https://happybirthdayivonne.com/test-post-2.html</id>
+        <media:content url="https://happybirthdayivonne.com/media/posts/2/IMG_2793.jpg" medium="image" />
 
-        <updated>2026-11-14T21:32:29+00:00</updated>
+        <updated>2026-11-18T00:00:00+00:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://happybirthdayivonne.com/media/posts/6/20231121_154339.jpg" alt="" />
-                    Barcelona broke the afternoon Into a thousand coloured shards And laid them&hellip;
+                        <img src="https://happybirthdayivonne.com/media/posts/2/IMG_2793.jpg" alt="" />
+                    After far flung years Our distance will close On cathedral steps.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://happybirthdayivonne.com/media/posts/6/20231121_154339.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Barcelona broke the afternoon<br>Into a thousand coloured shards<br>And laid them across the beach.</p>
-<p>You stole pieces of sunlight<br>Carried them in your laughter.<br>While the Mediterranean, restless,<br>Counted our miles in waves.</p>
-<p>When the city awakens<br>A thousand eyes in the trees<br>We will return again<br>To make the sunlight whole.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Minotaur</title>
-        <author>
-            <name>Finbarre Snarey</name>
-        </author>
-        <link href="https://happybirthdayivonne.com/minotaur.html"/>
-        <id>https://happybirthdayivonne.com/minotaur.html</id>
-        <media:content url="https://happybirthdayivonne.com/media/posts/5/IMG_2708.jpg" medium="image" />
-
-        <updated>2026-11-14T21:14:48+00:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://happybirthdayivonne.com/media/posts/5/IMG_2708.jpg" alt="" />
-                    As a single bead of wine Trickles across mosaic lines I traverse&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://happybirthdayivonne.com/media/posts/5/IMG_2708.jpg" class="type:primaryImage" alt="" /></p>
-                <p><span style="font-weight: 400;">As a single bead of wine <br>Trickles across mosaic lines <br>I traverse anfractuous streets <br>Labyrinthine, except <br>Time unravels like golden twine <br>Behooving me to be bullish <br>My champagne bottle, swinging Clublike. <br>It's eleven thirty nine.</span></p>
-<p><span style="font-weight: 400;">My grin in the thought of our sinning <br>Curves to match the hornshaped moon. <br>To the palatial hotel of fine china vases <br>Lavish destruction begins in your room.</span></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Gift</title>
-        <author>
-            <name>Finbarre Snarey</name>
-        </author>
-        <link href="https://happybirthdayivonne.com/gift.html"/>
-        <id>https://happybirthdayivonne.com/gift.html</id>
-        <media:content url="https://happybirthdayivonne.com/media/posts/4/20220908_142409.jpg" medium="image" />
-
-        <updated>2026-11-14T21:09:52+00:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://happybirthdayivonne.com/media/posts/4/20220908_142409.jpg" alt="" />
-                    I hastened past the graveyard To receive a witch's package From the&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://happybirthdayivonne.com/media/posts/4/20220908_142409.jpg" class="type:primaryImage" alt="" /></p>
-                <p><span style="font-weight: 400;">I hastened past the graveyard<br>To receive a witch's package<br>From the other side of the world<br>As a black cat haughtily watched<br>I gently held a brown paper parcel<br></span><span style="font-weight: 400;">Enscriped in unmistakable cursive<br>Home, upon the bed, I tore the wrapper <br>Slit the bindings and opened the box <br>Prepared for the sweet odour of incense <br>Fearsome sigils, or beetle carapaces <br>Most masterfully arranged <br>Except my gaze fell upon Tokidoki stickers <br>A tiny new panda and a dinosaur too <br>Strawberry Koalas and Caramel Corn Ruffles and Cheetos and Fritos, oh my <br>Treats and sweets galore were inside <br>From the Wonderful Witch of the West.</span></p>
+                    <p><img src="https://happybirthdayivonne.com/media/posts/2/IMG_2793.jpg" class="type:primaryImage" alt="" /></p>
+                <p><span style="font-weight: 400;">After far flung years <br></span><span style="font-weight: 400;">Our distance will close <br></span><span style="font-weight: 400;">On cathedral steps.</span></p>
             ]]>
         </content>
     </entry>
@@ -90,7 +41,7 @@
         <id>https://happybirthdayivonne.com/phantom-step.html</id>
         <media:content url="https://happybirthdayivonne.com/media/posts/3/IMG_9834-1.jpg" medium="image" />
 
-        <updated>2026-11-14T15:24:04+00:00</updated>
+        <updated>2026-11-18T00:00:00+00:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://happybirthdayivonne.com/media/posts/3/IMG_9834-1.jpg" alt="" />
@@ -110,25 +61,74 @@
         </content>
     </entry>
     <entry>
-        <title>Present</title>
+        <title>Gift</title>
         <author>
             <name>Finbarre Snarey</name>
         </author>
-        <link href="https://happybirthdayivonne.com/test-post-2.html"/>
-        <id>https://happybirthdayivonne.com/test-post-2.html</id>
-        <media:content url="https://happybirthdayivonne.com/media/posts/2/IMG_2793.jpg" medium="image" />
+        <link href="https://happybirthdayivonne.com/gift.html"/>
+        <id>https://happybirthdayivonne.com/gift.html</id>
+        <media:content url="https://happybirthdayivonne.com/media/posts/4/20220908_142409.jpg" medium="image" />
 
-        <updated>2026-11-14T14:27:58+00:00</updated>
+        <updated>2026-11-18T00:00:00+00:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://happybirthdayivonne.com/media/posts/2/IMG_2793.jpg" alt="" />
-                    After far flung years Our distance will close On cathedral steps.
+                        <img src="https://happybirthdayivonne.com/media/posts/4/20220908_142409.jpg" alt="" />
+                    I hastened past the graveyard To receive a witch's package From the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://happybirthdayivonne.com/media/posts/2/IMG_2793.jpg" class="type:primaryImage" alt="" /></p>
-                <p><span style="font-weight: 400;">After far flung years <br></span><span style="font-weight: 400;">Our distance will close <br></span><span style="font-weight: 400;">On cathedral steps.</span></p>
+                    <p><img src="https://happybirthdayivonne.com/media/posts/4/20220908_142409.jpg" class="type:primaryImage" alt="" /></p>
+                <p><span style="font-weight: 400;">I hastened past the graveyard<br>To receive a witch's package<br>From the other side of the world<br>As a black cat haughtily watched<br>I gently held a brown paper parcel<br></span><span style="font-weight: 400;">Enscriped in unmistakable cursive<br>Home, upon the bed, I tore the wrapper <br>Slit the bindings and opened the box <br>Prepared for the sweet odour of incense <br>Fearsome sigils, or beetle carapaces <br>Most masterfully arranged <br>Except my gaze fell upon Tokidoki stickers <br>A tiny new panda and a dinosaur too <br>Strawberry Koalas and Caramel Corn Ruffles and Cheetos and Fritos, oh my <br>Treats and sweets galore were inside <br>From the Wonderful Witch of the West.</span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Minotaur</title>
+        <author>
+            <name>Finbarre Snarey</name>
+        </author>
+        <link href="https://happybirthdayivonne.com/minotaur.html"/>
+        <id>https://happybirthdayivonne.com/minotaur.html</id>
+        <media:content url="https://happybirthdayivonne.com/media/posts/5/IMG_2708.jpg" medium="image" />
+
+        <updated>2026-11-18T00:00:00+00:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://happybirthdayivonne.com/media/posts/5/IMG_2708.jpg" alt="" />
+                    As a single bead of wine Trickles across mosaic lines I traverse&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://happybirthdayivonne.com/media/posts/5/IMG_2708.jpg" class="type:primaryImage" alt="" /></p>
+                <p><span style="font-weight: 400;">As a single bead of wine <br>Trickles across mosaic lines <br>I traverse anfractuous streets <br>Labyrinthine, except <br>Time unravels like golden twine <br>Behooving me to be bullish <br>My champagne bottle, swinging Clublike. <br>It's eleven thirty nine.</span></p>
+<p><span style="font-weight: 400;">My grin in the thought of our sinning <br>Curves to match the hornshaped moon. <br>To the palatial hotel of fine china vases <br>Lavish destruction begins in your room.</span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Parakeet Dreams</title>
+        <author>
+            <name>Finbarre Snarey</name>
+        </author>
+        <link href="https://happybirthdayivonne.com/parakeet-dreams.html"/>
+        <id>https://happybirthdayivonne.com/parakeet-dreams.html</id>
+        <media:content url="https://happybirthdayivonne.com/media/posts/6/20231121_154339.jpg" medium="image" />
+
+        <updated>2026-11-18T00:00:00+00:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://happybirthdayivonne.com/media/posts/6/20231121_154339.jpg" alt="" />
+                    Barcelona broke the afternoon Into a thousand coloured shards And laid them&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://happybirthdayivonne.com/media/posts/6/20231121_154339.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Barcelona broke the afternoon<br>Into a thousand coloured shards<br>And laid them across the beach.</p>
+<p>You stole pieces of sunlight<br>Carried them in your laughter.<br>While the Mediterranean, restless,<br>Counted our miles in waves.</p>
+<p>When the city awakens<br>A thousand eyes in the trees<br>We will return again<br>To make the sunlight whole.</p>
             ]]>
         </content>
     </entry>
