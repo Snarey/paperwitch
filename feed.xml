@@ -3,10 +3,61 @@
     <title>Happy Birthday Ivonne</title>
     <link href="https://happybirthdayivonne.com/feed.xml" rel="self" />
     <link href="https://happybirthdayivonne.com" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2026-11-14T15:35:13+00:00</updated>
     <author>
         <name>Finbarre Snarey</name>
     </author>
     <id>https://happybirthdayivonne.com</id>
 
+    <entry>
+        <title>Phantom Step</title>
+        <author>
+            <name>Finbarre Snarey</name>
+        </author>
+        <link href="https://happybirthdayivonne.com/phantom-step.html"/>
+        <id>https://happybirthdayivonne.com/phantom-step.html</id>
+        <media:content url="https://happybirthdayivonne.com/media/posts/3/IMG_9834-2.HEIC" medium="image" />
+
+        <updated>2026-11-14T15:24:04+00:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://happybirthdayivonne.com/media/posts/3/IMG_9834-2.HEIC" alt="" />
+                    Lust follows the line Of a thrust, up through your spine My&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://happybirthdayivonne.com/media/posts/3/IMG_9834-2.HEIC" class="type:primaryImage" alt="" /></p>
+                <p><span style="font-weight: 400;">Lust follows the line </span></p>
+<p><span style="font-weight: 400;">Of a thrust, up through your spine </span></p>
+<p><span style="font-weight: 400;">My sweet angel lies with raven feathers </span></p>
+<p><span style="font-weight: 400;">From the prestezza touch of impurest pleasure </span></p>
+<p><span style="font-weight: 400;">As your hips rise to dance in spreadeagled sin </span></p>
+<p><span style="font-weight: 400;">Your serpent touch speaks the Devil's name.</span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Present</title>
+        <author>
+            <name>Finbarre Snarey</name>
+        </author>
+        <link href="https://happybirthdayivonne.com/test-post-2.html"/>
+        <id>https://happybirthdayivonne.com/test-post-2.html</id>
+        <media:content url="https://happybirthdayivonne.com/media/posts/2/IMG_2793.jpg" medium="image" />
+
+        <updated>2026-11-14T14:27:58+00:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://happybirthdayivonne.com/media/posts/2/IMG_2793.jpg" alt="" />
+                    After far flung years Our distance will close On cathedral steps.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://happybirthdayivonne.com/media/posts/2/IMG_2793.jpg" class="type:primaryImage" alt="" /></p>
+                <p><span style="font-weight: 400;">After far flung years <br></span><span style="font-weight: 400;">Our distance will close <br></span><span style="font-weight: 400;">On cathedral steps.</span></p>
+            ]]>
+        </content>
+    </entry>
 </feed>
